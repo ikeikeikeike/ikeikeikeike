@@ -1,7 +1,8 @@
 
 
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikeikeikeike&hide=css,html,JavaScript,Vim%20Script" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikeikeikeike&theme=default&exclude=css,html,JavaScript,Vim%20Script" />  
 </span>
+
 
 
